@@ -1,0 +1,17 @@
+*{
+	box-sizing: border-box;
+	padding: 0px;
+	margin: 0px;
+}
+div{
+	width: 20%;
+	border: #FDF733 15px solid;
+	margin: 5px;
+	padding: 40px;
+}
+.div2{
+	margin: 0px auto
+}
+.div1{
+	text-align: center;
+}
